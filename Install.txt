@@ -9,7 +9,7 @@ Run following commands as root
 
 1) eio_cli installation
    > cp CLI/eio_cli /sbin/
-   > chmod 700 CLI/eio_cli	
+   > chmod 700 /sbin/eio_cli	
   
 
 2) Man page
